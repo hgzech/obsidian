@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "obsidian"
+  site-url: "https://hgzech.github.io/obsidian"
+  description: "A repository for obsidian helper functions"
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/obsidian"
